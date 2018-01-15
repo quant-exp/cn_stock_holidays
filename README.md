@@ -1,3 +1,7 @@
+
+copy this git from https://github.com/rainx/cn_stock_holidays.git
+
+
 # cn_stock_holidays
 
 
